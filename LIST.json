@@ -1,80 +1,249 @@
 список всех приложений которые в моем Cleaner (обновляемый список):
- * Streamlabs Desktop
- * Twitch
- * Pip
- * Hugging Face
- * Node.js
- * Android
- * Android Studio
- * Кэш Gradle
- * Microsoft Office
- * TikTok
- * Кэш обновлений Windows
- * Яндекс Браузер
- * Google Chrome
- * Microsoft Edge
- * Opera / Opera GX
- * Mozilla Firefox
- * VK Мессенджер
- * WhatsApp Desktop
- * Viber
- * Skype
- * VK Play
- * Lesta Game Center
- * Battle.net Launcher
- * EA App
- * CapCut
- * OBS Studio
- * Spotify
- * Riot Client
- * Ubisoft Connect
- * GOG Galaxy
- * Minecraft
- * Faceit Client
- * Adobe Premiere Pro
- * Adobe Photoshop
- * Figma Desktop
- * Blender
- * VS Code
- * PyCharm / JetBrains кэш
- * Яндекс Диск
- * Облако Mail.ru
- * OneDrive
- * Brave Browser
- * Vivaldi
- * Atom
- * Zoom
- * qBittorrent
- * uTorrent
- * Эмуляторы BlueStacks / LDPlayer
- * Системный Temp
- * Кэш Steam
- * Кэш Telegram
- * Кэш Discord
- * Яндекс Музыка
- * Epic Games Launcher
- * Roblox
- * NVIDIA Графический кэш
- * AMD Adrenaline кэш
- * Intel Графический кэш
- * Папка Загрузки
- * Корзина Windows
- * Кэш журналов и логов событий
- * Архив отчетов об ошибках Windows
- * Кэш шрифтов Windows
- * Genshin Impact / Honkai
- * Rockstar Games Launcher
- * Wargaming.net
- * OBS Studio
- * TeamSpeak 3 Client
- * Elements / Matrix
- * uTorrent / WebTorrent
- * GeForce Experience
- * Steam
- * КОМПАС-3D
- * AutoCAD
- * SolidWorks
- * 3ds Max / Maya
- * Unreal Engine
- * Unity Editor
- * CorelDRAW
+Streamlabs Desktop
+Twitch Клиент
+Pip Кэш библиотек Python
+Hugging Face Кэш моделей ИИ
+Node.js Кэш npm
+Android ADB и эмуляторы
+Android Studio Кэш IDE
+Кэш Gradle Сборка Android
+Microsoft Office Кэш файлов
+TikTok Windows-клиент
+Кэш обновлений Windows
+Яндекс Браузер
+Google Chrome
+Microsoft Edge
+Opera / Opera GX
+Mozilla Firefox
+VK Мессенджер
+WhatsApp Desktop
+Viber
+Skype
+VK Play Игровой центр
+Lesta Game Center Танки
+Battle.net Launcher
+EA App
+CapCut Монтаж
+OBS Studio Кэш виджетов
+Spotify
+Riot Client Valorant / LoL
+Ubisoft Connect
+GOG Galaxy
+Minecraft TLauncher кэш
+Faceit Client
+Adobe Premiere Pro Медиа-кэш
+Adobe Photoshop Кэш плагинов
+Figma Desktop
+Blender Временные файлы
+VS Code Кэш данных
+PyCharm / JetBrains кэш
+Яндекс Диск Кэш превью
+Облако Mail.ru
+OneDrive Временный кэш
+Brave Browser
+Vivaldi
+Atom Браузер от Mail.ru
+Zoom Кэш конференций
+qBittorrent Логи и кэш
+uTorrent Временный хлам
+Эмуляторы BlueStacks / LDPlayer
+Системный Temp
+Кэш Steam
+Кэш Telegram
+Кэш Discord
+Яндекс Музыка
+Epic Games Launcher
+Roblox
+NVIDIA Графический кэш
+AMD Adrenaline кэш
+Intel Графический кэш
+Папка Загрузки Downloads
+Корзина Windows
+Кэш журналов и логов событий Event Logs
+Архив отчетов об ошибках Windows WER
+Кэш шрифтов Windows
+Genshin Impact / Honkai Кэш и логи Hoyoverse
+Rockstar Games Launcher Логи и кэш GTA V
+Wargaming.net Кэш логов World of Tanks
+OBS Studio Старые логи трансляций
+TeamSpeak 3 Client Кэш икон и серверов
+Elements / Matrix Кэш мессенджера
+uTorrent / WebTorrent Кэш веб-интерфейса
+GeForce Experience Кэш загрузок драйверов
+Steam Кэш загрузок обновлений игр
+КОМПАС-3D Логи и бэкапы софта
+AutoCAD Кэш графики и веб-служб
+SolidWorks Краш-дампы и отчеты
+3ds Max / Maya Кэш UI и плагинов
+Unreal Engine Кэш шейдеров DDC и Zen
+Unity Editor Глобальный кэш пакетов
+CorelDRAW Временные загрузки софта
+Tor Browser
+LibreWolf Browser
+Waterfox Browser
+Pale Moon Browser
+Maxthon Browser
+Comodo Dragon
+SeaMonkey Browser
+Epic Privacy Browser
+Slack
+Microsoft Teams
+Signal Messenger
+WeChat Desktop
+LINE Messenger
+ICQ New / VK Teams
+Cisco Webex
+Mozilla Thunderbird
+Mailbird Почта
+Skype for Business
+Git Системный кэш
+Docker Desktop Контексты
+Go Language Кэш компиляции
+GitHub Desktop App
+Arduino IDE
+Sublime Text Кэш
+Notepad++ Бэкапы сессий
+Oracle VirtualBox Логи
+VMware Workstation
+Adobe Illustrator
+Adobe After Effects
+Adobe Lightroom
+Adobe Audition
+DaVinci Resolve
+Sony Vegas Pro Временные файлы
+GIMP Кэш текстур и кистей
+Inkscape
+Audacity Данные сессий
+VLC Media Player Кэш обложек
+KMPlayer
+PotPlayer
+Plex Media Server
+HandBrake Логи кодирования
+Xbox App / Game Pass Кэш темпа
+itch.io Launcher
+Paradox Interactive Launcher
+CurseForge App
+Overwolf
+League of Legends Логи игры
+GameLoop Emulator PUBG Mobile
+osu! Game Логи и реплеи
+Cyberpunk 2077 CDPR Launcher
+Razer Synapse
+Logitech G HUB
+Corsair iCUE
+SteelSeries GG
+TeamViewer
+AnyDesk Кэш превью
+Kaspersky Lab Логи отчетов
+Malwarebytes
+Google Earth Pro
+Cent Browser
+360 Safe Browser Китай
+QQ Browser Tencent
+Sogou High-Speed Browser
+Baidu Browser
+Amigo Browser Амиго
+Sputnik Browser Спутник
+Orbitum Browser
+Uran Browser uCoz
+Elements Browser Яндекс
+Yandex Start Desktop Wrapper
+K-Meleon Browser
+1С:Предприятие Кэш конфигураций
+МойОфис MyOffice
+Р7-Офис R7-Office
+WPS Office Kingsoft
+КриптоПро CSP CryptoPro
+Битрикс24 Bitrix24 Desktop
+1С-Битрикс: Корпоративный портал
+DingTalk 钉钉 - Alibaba Work
+Feishu / Lark 飞书 - ByteDance
+WeCom WeChat Work
+2GIS 2ГИС Карты
+Kaspi Pay Desktop Helper Казахстан
+Gitee DevTools App Китай
+Tencent QQ
+Пачка Pachca Messenger
+Компас Мессенджер Compass
+TamTam ТамТам от Mail.ru
+Mail.ru Агент
+TrueConf Видеосвязь РФ
+МТС Линк Webinar.ru
+SberJazz СберДжаз
+Яндекс Телемост
+Vinteo Видеоконференции
+Douyin Desktop 抖音 - TikTok Китая
+Kuaishou Desktop 快手
+Weibo Desktop Client
+Baidu Tieba Client
+Zhihu Desktop App
+VK Video ВКонтакте Видео
+Yandex Messenger Яндекс Мессенджер
+Sintel Corporate Messenger
+Squad Business Chat
+TenChat Бизнес-соцсеть
+NetEase Cloud Music 网易云音乐
+QQ Music QQ音乐
+Kugou Music 酷狗音乐
+Kuwo Music 酷我音乐
+Xiami Music 虾米音乐
+Bilibili Desktop Client 哔哩哔哩
+Youku Client 优酷
+iQiyi Client 爱奇艺
+Tencent Video 腾讯视频
+Wink Ростелеком
+Кинопоиск Desktop Kinopoisk
+Okko Кинотеатр
+Ivi Онлайн-кинотеатр
+Premier Видеосервис
+Rutube Desktop Launcher
+Kion МТС ТВ
+More.tv Кэш приложения
+Smotrim Смотрим ВГТРК
+Xunlei Kankan Player
+ComboPlayer ТВ и Радио
+Download Master WestByte
+Zona Фильмы и торренты
+MediaGet Client
+Ace Stream Torrent Stream
+Baidu Netdisk Baidu Wangpan
+Xunlei Download Manager 迅雷
+SberDisk СберДжаз
+Облако Kcell Казахстан
+FlylinkDC++
+StrongDC++
+ApexDC++
+Shareman P2P
+RadioCent Радио-плеер
+Dr.Web Antivirus Логи
+360 Total Security Читка кэша
+AdGuard Desktop App
+Internet Download Manager IDM
+Free Download Manager FDM
+BitTorrent Client
+WinRAR Временная распаковка
+7-Zip История и кеш
+WeMod Трейнеры и моды
+Cheat Engine Кэш таблиц
+Garena Client
+MTS Connection Manager
+MegaFon Modem
+Beeline Internet Helper
+AIDA64 Отчеты систем
+Victoria HDD/SSD
+Yandex Games Desktop wrapper
+Gaijin Launcher War Thunder / Crossout
+Escape from Tarkov BSG Launcher
+4Game Launcher Innova - L2/Aion
+HoyoPlay Launcher Honkai/ZZZ
+NetEase Games Launcher
+Tencent WeGame Launcher
+Perfect World Games Launcher
+Tanki Online Client Танки Онлайн
+Allods Team Launcher Аллоды
+RuStore Emulator Sync Module
+MEmu Play Emulator
+SmartGaGa Emulator
+Sogou Pinyin Кэш ввода Китая
+Baidu Pinyin Кэш ввода Китая
+Anilibria Desktop Client
